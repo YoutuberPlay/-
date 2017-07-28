@@ -1,4 +1,5 @@
 {
+	"jenkins": {
 		"pocketmine": [
 			"Tesseract (ZXDA)|https://jenkins.zxda.net/job/Tesseract/",
 			"GenisysPro (ZXDA)|https://jenkins.zxda.net/job/GenisysPro/",
@@ -10,4 +11,5 @@
 			"[Заброшенный]ClearSky-PHP7 (ZXDA)|https://jenkins.zxda.net/job/ClearSky-PHP7/",
 			"[Заброшенный]ClearSky-PHP5 (ZXDA)|https://jenkins.zxda.net/job/ClearSky-PHP5/"
 		]
+		}
 }
