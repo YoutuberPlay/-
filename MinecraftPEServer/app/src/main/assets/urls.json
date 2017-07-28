@@ -1,22 +1,13 @@
 {
-	"jenkins": {
+	"download": {
 		"nukkit": [
 			"MengCraft|http://ci.mengcraft.com:8080/job/nukkit/",
 			"RegularBox|http://ci.regularbox.com/job/Nukkit/",
 			"ZXDA|https://jenkins.zxda.net/job/Nukkit/"
 		],
 		"pocketmine": [
-			"Tesseract (ZXDA)|https://jenkins.zxda.net/job/Tesseract/",
-			"GenisysPro (ZXDA)|https://jenkins.zxda.net/job/GenisysPro/",
-			"PocketMine-MP-PMMP (pmmp/x64)|https://jenkins.pmmp.gq/job/PocketMine-MP/",
-			"PocketMine-MP-PMMP (ZXDA/x64)|https://jenkins.zxda.net/job/PocketMine-MP/",
-			"Minecraft PE 1.1.3.1 (PHP7)|https://yadi.sk/d/gMBwzf-w3LVwtT/"
-			
-		]
-	}
-	"download": {
-	"pocketmine": [
+	"Minecraft PE 1.1.3.1 (PHP7)|https://yadi.sk/d/gMBwzf-w3LVwtT/",
 	"Minecraft PE 1.1.3.1 (PHP7)|https://vk.com/doc150408071_447914842?hash=963f5b8a93e6b1abaa&dl=GE2TANBQHAYDOMI:1501254831:43553433e551ba505e&api=1/"
 	]
-}
+	}
 }
