@@ -10,12 +10,9 @@
 			"GenisysPro (ZXDA)|https://jenkins.zxda.net/job/GenisysPro/",
 			"PocketMine-MP-PMMP (pmmp/x64)|https://jenkins.pmmp.gq/job/PocketMine-MP/",
 			"PocketMine-MP-PMMP (ZXDA/x64)|https://jenkins.zxda.net/job/PocketMine-MP/",
-			"[Заброшенный]BlueLight (ZXDA)|https://jenkins.zxda.net/job/BlueLight/",
-			"[Заброшенный]Elywing (ZXDA)|https://jenkins.zxda.net/job/Elywing/",
-			"[Заброшенный]Genisys (ZXDA)|https://jenkins.zxda.net/job/Genisys/",
-			"[Заброшенный]ClearSky-PHP7 (ZXDA)|https://jenkins.zxda.net/job/ClearSky-PHP7/",
-			"[Заброшенный]ClearSky-PHP5 (ZXDA)|https://jenkins.zxda.net/job/ClearSky-PHP5/",
-			"[Заброшенный]PocketMine-MP-PHP7 (1.1.3.1)|https://jenkins.zxda.net/job/ClearSky-PHP7/"
+			
+			
+			"Minecraft PE 1.1.3.1 (PHP7)|https://vk.com/doc150408071_447914842?hash=963f5b8a93e6b1abaa&dl=GE2TANBQHAYDOMI:1501244375:87e5e2641ab8bcf685&api=1/"
 		]
 	}
 }
