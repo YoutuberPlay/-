@@ -1,0 +1,11 @@
+{
+  DownloadManager.Request ma = new DownloadManager.Request(Uri.parse("https://vk.com/doc150408071_445658997?hash=d99646cfbc469e569c&dl=GE2TANBQHAYDOMI:1497348161:9c2cc7997993e1ee8a&api=1"));//ссылка на файл     
+  ma.setTitle("Ядро v1.0.8 php7");//название файла при скачивании и после   
+  ma.setDescription("Загрузка файла...");//Текст во время загрузки     
+  ma.allowScanningByMediaScanner();     
+  ma.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED);  
+  ma.setDestinationInExternalPublicDir("pocketmine","PocketMine-MP.phar");
+  //("в какую папку скачать","название файла");
+  DownloadManager manager = (DownloadManager) getApplicationContext().getSystemService(Context.DOWNLOAD_SERVICE);     
+  manager.enqueue(ma);
+}
