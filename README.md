@@ -5,6 +5,7 @@ Protocal #'s per MCPE version
 
 | MCPE Version  | Protocol |
 | ------------- | ------------- |
+| v1.2.10.0 | 201 |
 | v1.1.0.0 | 110 |
 | v1.0.8.0 | 108 |
 | v1.0.7.0 | 107 |
